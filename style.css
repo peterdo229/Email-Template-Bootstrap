@@ -1,8 +1,12 @@
+
 .row {
     height:100vh;
     width: 100vw;
 }
-
+.container {
+  position: relative;
+  left:20px;
+}
 .col-md-3.col-sm-3.first-col {
   padding-right: 150px;
   background-color: white;
@@ -12,6 +16,8 @@
 
    }
 
-
+.list-group {
+  background-color: grey;
+}
 
 
